@@ -29,5 +29,6 @@ Direct Over-The-Air (OTA) endpoints for device integration:
 ---
 
 ## 📄 License
-This repository distributes pre-compiled binaries under the [GNU General Public License v3.0](LICENSE).  
-AlfaEnergy branding, custom UI, and system profiles are Copyright © Dicky Rohid Fikra.
+This repository distributes pre-compiled firmware binaries under the [AlfaEnergy Proprietary License Agreement](LICENSE). All Rights Reserved.  
+Unauthorized copying, modification, or commercial redistribution is strictly prohibited.  
+Copyright © 2026 Dicky Rohid Fikra.
