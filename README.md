@@ -12,8 +12,8 @@ Official pre-compiled firmware distribution for **AlfaEnergy** smart energy moni
 
 | Hardware Target | OTA File (.bin) | Factory Flash (.factory.bin) | SHA-256 Checksum (Factory) |
 | :--- | :--- | :--- | :--- |
-| **AlfaEnergy Plug** | [Download](firmware/AlfaEnergy_Plug.bin) | [Download](firmware/AlfaEnergy_Plug.factory.bin) | `EBD92B07CF9D90E1D6D8C8930D4AF7D623C1046F0D63644DDECDAC3B53368901` |
-| **AlfaEnergy CT**   | [Download](firmware/AlfaEnergy_CT.bin)   | [Download](firmware/AlfaEnergy_CT.factory.bin)   | `A5F189F4FF4EFB2EE6F44F9D9A6C458A6032396D8676BE2A8AC8F3BF050C1406` |
+| **AlfaEnergy Plug** | [Download](firmware/AlfaEnergy_Plug.bin) | [Download](firmware/AlfaEnergy_Plug.factory.bin) | `A0E1D68F9DDF9B98E531522BB34E32A4B39C909ED877787C260344D028EDD983` |
+| **AlfaEnergy CT**   | [Download](firmware/AlfaEnergy_CT.bin)   | [Download](firmware/AlfaEnergy_CT.factory.bin)   | `FB66A09E80E4E8FD05ABDF8E36ACEDAC1E1511E577BA3A77A3BF22C162051C80` |
 
 *Full verification checksums are available in [`firmware/SHA256SUMS.txt`](firmware/SHA256SUMS.txt).*
 
